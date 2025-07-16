@@ -1,10 +1,5 @@
-----------------------------------------------
-Filename: README.md
-----------------------------------------------
+Payload Obfuscator – XOR + Base64 Hybrid
 
-# Payload Obfuscator – XOR + Base64 Hybrid
-
-Status: In Progress  
 Version: v0.1  
 Created: July 2025
 
@@ -34,22 +29,6 @@ It is designed to simulate real-world red team obfuscation workflows and AV evas
 |------------------------------------|--------|
 | Obfuscated Files or Information    | T1027  |
 | Deobfuscate/Decode Files or Info   | T1140  |
-
----
-
-## Project Structure
-
-Payload-Obfuscator-XOR-Base64/
-├── scripts/
-│   └── obfuscator.py  
-├── samples/
-│   └── payload.txt  
-├── outputs/
-│   ├── encoded.b64  
-│   └── decoded.txt  
-├── screenshots/
-│   └── demo_encode_decode.png  
-└── README.md  
 
 ---
 
