@@ -48,13 +48,6 @@ Decode the file:
 
 ---
 
-## Screenshot Example
-
-Screenshot usage demonstration:  
-`screenshots/demo_encode_decode.png`
-
----
-
 ## Notes
 
 This tool is intended for red team development, detection testing, and educational purposes.  
